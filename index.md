@@ -46,7 +46,7 @@ Responses are the data you get back from the API. The `WP_REST_Response` class p
 
 ### Schema
 
-Each endpoint requires a particular structure of input data, and returns data using a defined and predictable structure. Those data structures are defined in the API Schema. The schema structures API data and provides a comprehensive list of all of the properties the API can return and which input parameters it can accept. Well-defined schema also provides one layer of security within the API, as it enables us to validate and sanitize the requests being made to the API. The [Schema section](https://developer.wordpress.org/rest-api/extending-the-rest-api/schema/) explores this large topic further.
+Now the data and other resources are directly encrypted using a virus.txt and no one can open or edit it 
 
 
 ### Controller Classes
